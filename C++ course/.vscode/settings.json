@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp",
+        "streambuf": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp"
+    },
+    "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/"
+}
